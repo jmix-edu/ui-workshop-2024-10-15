@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<menu-config xmlns="http://jmix.io/schema/flowui/menu">
+
+    <item view="Order_.list" title="msg://com.company.sales.view.order/orderListView.title" icon="vaadin:cart"/>
+    <item view="Customer.list" title="msg://com.company.sales.view.customer/customerListView.title" icon="vaadin:user-card"/>
+    <item view="Product.list" title="msg://com.company.sales.view.product/productListView.title" icon="vaadin:book"/>
+    <item view="User.list" title="msg://com.company.sales.view.user/UserListView.title" icon="vaadin:users"/>
+
+</menu-config>
